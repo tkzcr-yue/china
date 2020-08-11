@@ -1,3 +1,11 @@
 git status  检查
 
-git add
+git add+上传的文件名称
+
+再次执行git status 检查
+
+git commit -m +“”上传代码注释“”
+
+git pull origin master    (拉取线上所有文件到本地文件夹)
+
+git push origin master (上传所有本地文件到线上)
