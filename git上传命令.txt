@@ -1,0 +1,3 @@
+git status  检查
+
+git add
